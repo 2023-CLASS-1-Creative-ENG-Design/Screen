@@ -9,9 +9,9 @@
 # 기술 소개
 저희 조가 사용한 기술은 **adafruit**과 **IFTTT** 이고 **Arduino IDE**를 이용해 sw개발을 진행했습니다.  
 우선 IFTTT는 중간 다리 역할이라 볼 수 있으며 구글 어시스턴트와 adafruit을 연결해주고  
-<사진1>    
+<ifttt사진1>    
 adafruit은 실행과정을 담당하며 결과를 내는 역할을 맡게 됩니다.  
-<사진2>  
+<adafruit사진2>  
 # 제작 과정  
 (참고 영상:<https://www.youtube.com/watch?v=WOJjtcrM94I&t=309s>)  
 ### adafruit 관련  
