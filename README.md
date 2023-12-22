@@ -9,16 +9,16 @@
 # 기술 소개
 저희 조가 사용한 기술은 **adafruit**과 **IFTTT** 이고 **Arduino IDE**를 이용해 sw개발을 진행했습니다.  
 우선 IFTTT는 중간 다리 역할이라 볼 수 있으며 구글 어시스턴트와 adafruit을 연결해주고  
-
+<사진>  
 adafruit은 실행과정을 담당하며 결과를 내는 역할을 맡게 됩니다.  
-
-이 사이트에서 아래의 과정을 거쳐 제작을 하였습니다.  
+<사진>  
+# 제작 과정  
 (참고 영상:<https://www.youtube.com/watch?v=WOJjtcrM94I&t=309s>)  
 ### adafruit 관련  
 1.adafrruit(로그인 후)  
 2.상단 io-dashboard-new dashboard-dashboard생성  
 3.톱니바퀴 화살표-create new block-맨 위의 toggle-새 이름 생성  
-4.(<https://github.com/Chando0185/Nodemcu_LED>)이 링크를 타서 코드 설치  
+4.(<https://github.com/Chando0185/Nodemcu_LED>)에서 코드 설치  
 5.arduino mqtt library 설치  
 6.ssid,passward 수정  
 7.username,auth key수정
